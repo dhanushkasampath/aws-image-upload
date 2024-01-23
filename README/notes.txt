@@ -1,0 +1,4 @@
+npm -S i axios
+npm install --save react-dropzone
+
+https://github.com/react-dropzone/react-dropzone
